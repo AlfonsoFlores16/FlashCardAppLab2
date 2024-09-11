@@ -2,7 +2,7 @@
 ## Lab 2
 
 ### App Description
-`TODO://` This flashcard app can alternate between questions and answers. The user can also create a custom flashcard by inputting a question and answer. The custom flashcard will display in the main screen after pressing a save button. The user can also has the ability to press a cancel button which will make the app return to the main screen, to the previous question.
+`TODO://` This flashcard app can alternate between questions and answers. The user can also create a custom flashcard by inputting a question and answer. The custom flashcard will display in the main screen after pressing a save button. The user also has the ability to press a cancel button which will make the app return to the main screen, to the previous question.
 
 ### App Walk-though
 
